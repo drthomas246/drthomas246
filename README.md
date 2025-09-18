@@ -12,7 +12,7 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=drthomas246&theme=default)
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=drthomas246&show_icons=true&layout=donut&hide=css,html)
-![](https://github-readme-stats.vercel.app/api?username=drthomas246)
+![](https://github-readme-stats.vercel.app/api?username=drthomas246&layout=donut)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=drthomas246&theme=default)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=drthomas246&theme=default&utcOffset=9)
