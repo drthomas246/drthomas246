@@ -8,7 +8,7 @@
 
 ### Languages and Tools:
 
-![](https://skillicons.dev/icons?i=astro,html,css,react,ts,npm,tailwind,bun,babel,nodejs,vercel,svg,vite,webpack,py&theme=light)
+![](https://skillicons.dev/icons?i=astro,html,css,react,ts,tailwind,bun,babel,nodejs,vercel,svg,vite,webpack,py&theme=light)
 ![](https://skillicons.dev/icons?i=md,opencv,cs,dotnet,ai,visualstudio,git,powershell,windows&theme=light)&ensp;<img src="./zedindustries.svg"  width="45"/>
 
 ### Currently studying:
