@@ -8,7 +8,11 @@
 
 ### Languages and Tools:
 
-![](https://skillicons.dev/icons?i=astro,html,css,react,ts,npm,tailwind,bun,babel,nodejs,vercel,svg,vite,webpack,py,md,opencv,cs,dotnet,visualstudio,git,powershell,windows&theme=light)
+![](https://skillicons.dev/icons?i=astro,html,css,react,ts,npm,tailwind,bun,babel,nodejs,vercel,svg,vite,webpack,py&theme=light)
+![](https://skillicons.dev/icons?i=md,opencv,cs,dotnet,ai,visualstudio,git,powershell,windows&theme=light)&ensp;<img src="./zedindustries.svg"  width="45"/>
+
+### Currently studying:
+![](https://skillicons.dev/icons?i=astro,react,ts,nextjs,tailwind,firebase,bun,vite,py,md,opencv,cs,dotnet,ai&theme=light)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=drthomas246&theme=default)
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=drthomas246&show_icons=true&layout=donut&hide=css,html)
