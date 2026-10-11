@@ -12,7 +12,7 @@
 ![](https://skillicons.dev/icons?i=pnpm,cloudflare,supabase,docker,md,opencv,cs,dotnet,ai,ps,visualstudio,obsidian,powershell,windows,neovim&theme=light)
 
 ### Currently studying:
-![](https://skillicons.dev/icons?i=astro,react,ts,nextjs,tailwind,supabase,bun,vite,py,md,opencv,cs,dotnet,ai&theme=light)
+![](https://skillicons.dev/icons?i=astro,react,ts,nextjs,tailwind,supabase,bun,vite,py,md,opencv,cs,dotnet,ai,cloudflare&theme=light)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=drthomas246&theme=default)
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=drthomas246&show_icons=true&layout=donut&hide=css,html)
