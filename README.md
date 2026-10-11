@@ -9,7 +9,7 @@
 ### Languages and Tools:
 
 ![](https://skillicons.dev/icons?i=astro,html,css,react,ts,tailwind,bun,babel,nodejs,vercel,svg,vite,webpack,py&theme=light)
-![](https://skillicons.dev/icons?i=md,opencv,cs,dotnet,ai,visualstudio,git,powershell,windows,neovim&theme=light)
+![](https://skillicons.dev/icons?i=cloudflare,docker,md,opencv,cs,dotnet,ai,visualstudio,git,obsidian,powershell,windows,neovim&theme=light)
 
 ### Currently studying:
 ![](https://skillicons.dev/icons?i=astro,react,ts,nextjs,tailwind,firebase,bun,vite,py,md,opencv,cs,dotnet,ai&theme=light)
