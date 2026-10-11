@@ -1,4 +1,4 @@
-# I'm Yamahara Yoshihiro -@drthomas246
+![](https://capsule-render.vercel.app/api?type=waving&height=300&color=0%3A732A9B%2C100%3AC757AD&section=header&reversal=false&text=I%27m+Yamahara+Yoshihiro&textBg=false&fontColor=FFFFFF&fontSize=50&fontAlign=50&fontAlignY=39&animation=twinkling&rotate=0&strokeWidth=0&desc=%40drthomas246&descSize=30&descAlign=50&descAlignY=57)
 
 ![](https://komarev.com/ghpvc/?username=srthomas246&color=blueviolet) ![](https://qiita-badge.apiapi.app/s/Dr_Thomas/posts.svg) ![](https://qiita-badge.apiapi.app/s/Dr_Thomas/contributions.svg)
 
