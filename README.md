@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=srthomas246&color=blueviolet) ![](https://qiita-badge.apiapi.app/s/Dr_Thomas/posts.svg) ![](https://qiita-badge.apiapi.app/s/Dr_Thomas/contributions.svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=B44EF7&multiline=true&height=160&lines=I'm+a+math+teacher+in+Japan.;I+focus+on+school+nonattendance+;and+inclusive+education%2C;and+develop+tools;for+learning+support;and+reducing+teachers'+workloads.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=B44EF7&multiline=true&width=660&height=115&lines=I'm+a+math+teacher+in+Japan.;I+focus+on+school+nonattendance+and+inclusive+education;and+develop+tools+for+learning+support;and+reducing+teachers'+workloads.)](https://git.io/typing-svg)
 
 ![](https://github-profile-trophy.vercel.app/?username=drthomas246&theme=light&margin-w=15)
 
